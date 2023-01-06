@@ -1,9 +1,9 @@
 var flag = 0;
-    
+var n = 83; 
     
     for (i=2;i<10; i++){
     
-        if (10%i ==0 )
+        if (n % i ==0 )
         {
             flag =1;
             break;
